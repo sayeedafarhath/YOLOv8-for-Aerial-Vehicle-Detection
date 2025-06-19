@@ -65,13 +65,7 @@ This project uses the YOLOv8 deep learning model to perform real-time traffic an
 - Zipped predictions (`visdrone_predictions.zip`)
 - Evaluation charts (F1, PR, Confusion Matrix)
 - Tabulated class-wise detection performance
-
-## 📚 Research Paper
-
-This work contributes to the paper:  
-**"YOLOv8-Based Real-Time Traffic Detection Using Aerial Imagery"**  
-The objective is to improve vehicle detection accuracy in real-world traffic scenarios using aerial perspectives and deep learning.
-
+- 
 ---
 
 ## 🧠 Contributing
