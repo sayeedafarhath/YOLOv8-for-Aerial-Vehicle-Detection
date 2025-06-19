@@ -65,7 +65,7 @@ This project uses the YOLOv8 deep learning model to perform real-time traffic an
 - Zipped predictions (`visdrone_predictions.zip`)
 - Evaluation charts (F1, PR, Confusion Matrix)
 - Tabulated class-wise detection performance
-- 
+  
 ---
 
 ## 🧠 Contributing
